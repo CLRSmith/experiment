@@ -1,5 +1,11 @@
 p {
+  text-align: left;
+  background-color: lilac;
+  }
+  
+title {
   text-align: centre;
   background-color: lilac;
+  color: dark blue;
   }
   
